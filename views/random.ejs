@@ -1,0 +1,6 @@
+<%- include partials/header.ejs %>
+
+    <h1>Some Random Number</h1>
+    <p><%= randomNumber%></p>
+
+<%- include partials/footer.ejs %>
